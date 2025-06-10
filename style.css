@@ -27,7 +27,7 @@ button {
     border: none;
     border-radius: 15px;
 }
-button: hover {
+button:hover {
     background-color: lightcyan;
     cursor: pointer;
     transform: scale(1.1);
