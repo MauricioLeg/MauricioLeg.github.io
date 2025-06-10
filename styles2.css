@@ -1,0 +1,10 @@
+h1 {
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+}
+h2 .img{
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+}
